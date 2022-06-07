@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Check Decomposition.md",
+      "setup": "",
+      "run": "cat Decomposition.md",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50
+    },
+    {
+      "name": "Check Liskov_Subsitute_Principle.md",
+      "setup": "",
+      "run": "cat Liskov_Subsitute_Principle.md",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50
+    }
+  ]
+}
